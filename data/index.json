@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "productName": "Dell-Latitude",
+            "category": "Laptop",
+            "description": "Dell Latitude E5450 i3 5th GEN 1 for business. RAM: 8GB, HDD: 1TB",
+            "amount": 20000.89,
+            "img_url": "https://erin-caitlin.github.io/all-images/images/images (2).jpg"
+        },
+        {
+            "id": 2,
+            "productName": "Black Keyboard",
+            "category": "Keyboard",
+            "description": "Wireless keyboard",
+            "amount": 12000.54,
+            "img_url": "https://erin-caitlin.github.io/all-images/images/mx-keys-s-keyboard-top-view-black-us.webp"
+        },
+        {
+            "id": 3,
+            "productName": "Wireless Mouse",
+            "category": "Mouse",
+            "description": "Able to connect to any Laptop",
+            "amount": 5000.36,
+            "img_url": "https://erin-caitlin.github.io/all-images/images/m171-mouse-top-view-grey.webp"
+        },
+        {
+            "id": 4,
+            "productName": "Travel Laptop Bag",
+            "category": "Laptop Bag",
+            "description": "Stylish laptop bag able to use anywhere",
+            "amount": 3000.54,
+            "img_url": "https://erin-caitlin.github.io/all-images/images/COREBOOK-PRO-33.webp"
+        },
+        {
+            "id": 5,
+            "productName": "Wireless Webcam",
+            "category": "Webcam",
+            "description": "Sutiable for all devices",
+            "amount": 12000.54,
+            "img_url": "https://erin-caitlin.github.io/all-images/images/c08278806.png"
+        }
+    ]
+}
